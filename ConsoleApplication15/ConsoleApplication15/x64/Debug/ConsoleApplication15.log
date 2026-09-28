@@ -1,0 +1,9 @@
+﻿  main.cpp
+  vendedor.cpp
+C:\Users\TRINIDADMONTOYAESTEB\source\repos\ConsoleApplication15\ConsoleApplication15\vendedor.cpp(10,16): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\TRINIDADMONTOYAESTEB\source\repos\ConsoleApplication15\ConsoleApplication15\vendedor.cpp(14,16): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\TRINIDADMONTOYAESTEB\source\repos\ConsoleApplication15\ConsoleApplication15\vendedor.cpp(18,16): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\TRINIDADMONTOYAESTEB\source\repos\ConsoleApplication15\ConsoleApplication15\vendedor.cpp(22,16): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\TRINIDADMONTOYAESTEB\source\repos\ConsoleApplication15\ConsoleApplication15\vendedor.cpp(33,21): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+  Generando código...
+  ConsoleApplication15.vcxproj -> C:\Users\TRINIDADMONTOYAESTEB\source\repos\ConsoleApplication15\x64\Debug\ConsoleApplication15.exe
