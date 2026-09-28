@@ -1,0 +1,3 @@
+﻿  ConsoleApplication5.cpp
+C:\Users\TRINIDADMONTOYAESTEB\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(6,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  ConsoleApplication5.vcxproj -> C:\Users\TRINIDADMONTOYAESTEB\source\repos\ConsoleApplication5\x64\Debug\ConsoleApplication5.exe
