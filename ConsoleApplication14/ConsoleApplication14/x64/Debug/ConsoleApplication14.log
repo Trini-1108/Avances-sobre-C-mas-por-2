@@ -1,0 +1,5 @@
+﻿  main.cpp
+  pago.cpp
+C:\Users\TRINIDADMONTOYAESTEB\source\repos\ConsoleApplication14\ConsoleApplication14\pago.cpp(13,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Generando código...
+  ConsoleApplication14.vcxproj -> C:\Users\TRINIDADMONTOYAESTEB\source\repos\ConsoleApplication14\x64\Debug\ConsoleApplication14.exe
